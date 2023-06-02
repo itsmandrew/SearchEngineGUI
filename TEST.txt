@@ -1,0 +1,43 @@
+
+1 michael shindler
+    - pretty accurate and gives good links
+
+2 master of software engineering
+    - links are pretty bad
+    - gives me links such as .txt files and so on
+    - not really sure how to fix this lol
+
+3 fruit files
+    - gives me a decent link
+    - might be too specific though
+
+
+4 what is minecraft
+    - actually gives pretty good links
+    - success
+
+
+5 where is new york city
+    - there is one specific document, where if you give a location it's a spreadsheet of everywhere
+    - not sure how to avoid this... but this might be the only term
+
+6 machine learning
+    - pages could be better
+    - nothing really that stands out in the link itself...
+
+7 acm
+    - gives me decent links relating to acm
+
+8 artificial intelligence
+    - good links
+
+9 alberto krone martins
+    - bad links
+    - can not find :()
+    - might need to give weight to certain things
+
+10 university of california irvine
+    - meh pages, not that many in link / title...
+
+11 chess
+    - actually pretty good pages
